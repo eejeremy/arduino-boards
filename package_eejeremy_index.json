@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/eejeremy/arduino-boards/releases/download/v1.0.0/avr.zip",
           "archiveFileName": "avr.zip",
-          "checksum": "SHA-256:BF9875381F13BCCAFABEEB2947AD287AB295CBBDBFFAEF119C34A85700ABDECF",
-          "size": 63776,
+          "checksum": "SHA-256:6A20B2FACAB35C85797D264E2B85172FBA52E2DD3D8E299112BE2B8C7433F395",
+          "size": 59967,
           "boards": [
             {"name": "AT90CAN64"}
           ],
