@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/eejeremy/arduino-boards/blob/main/RimRockCanBoard.zip",
+          "url": "https://github.com/eejeremy/arduino-boards/releases/download/v1.0.0/RimRockCanBoard.zip",
           "archiveFileName": "RimRockCanBoard.zip",
           "checksum": "SHA-256:B46CCA3FD1D41F80A54ECDB37D0E87A4DEF22BF96F34B3229330D5174EED0801",
           "size": 63228,
