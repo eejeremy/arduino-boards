@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/eejeremy/arduino-boards/archive/refs/tags/v1.0.0.zip",
+          "url": "https://github.com/eejeremy/arduino-boards/releases/download/untagged-2e4c0cbf2c67483049be/avr.zip",
           "archiveFileName": "avr.zip",
           "checksum": "SHA-256:BF9875381F13BCCAFABEEB2947AD287AB295CBBDBFFAEF119C34A85700ABDECF",
           "size": 63776,
